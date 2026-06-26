@@ -23,13 +23,13 @@ Para esta versión del ecosistema, el repositorio aloja exclusivamente los recur
 * **Código Interno:** `KIT-EB-02V1`
 * **Contenido:** 
   * `📄 Guia_Ensamblaje_Conejo.pdf`: Manual visual paso a paso para el armado rápido por encastre sin herramientas.
-  * `📁 STL_Repuestos/`: Modelos 3D de las piezas plásticas críticas expuestas a mayor desgaste o pérdida durante la rotación de los talleres (clips, soportes y uniones).
+  * `📁 STL_Repuestos/`: Modelos 3D de repuesto.
 
 ### 🐶 2. Kinetic Puppy
 * **Código Interno:** `KIT-EB-01V1`
 * **Contenido:**
   * `📄 Guia_Ensamblaje_Puppy.pdf`: Manual visual instructivo para la construcción de la estructura cinética articulada del robot.
-  * `📁 STL_Repuestos/`: Modelos 3D de repuesto para los eslabones mecánicos, patas y encajes de sujeción a la PCB.
+  * `📁 STL_Repuestos/`: Modelos 3D de repuesto.
 <img width="896" height="515" alt="c_d" src="https://github.com/user-attachments/assets/ed8072a5-3e2b-4751-b2d9-2d15014150cb" />
 ---
 
