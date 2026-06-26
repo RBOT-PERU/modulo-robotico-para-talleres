@@ -42,3 +42,4 @@ Este proyecto se distribuye bajo la licencia **Creative Commons Atribución-NoCo
 * **Prohibido:** La comercialización, distribución externa de estos planos, o la fabricación de réplicas de los chasis con fines de lucro por terceros ajenos a **RBOT PERÚ**.
 
 Para soporte logístico técnico o coordinación de nuevos talleres institucionales, contáctenos a través de nuestros canales oficiales corporativos.
+<img width="896" height="515" alt="c_d" src="https://github.com/user-attachments/assets/ed8072a5-3e2b-4751-b2d9-2d15014150cb" />
